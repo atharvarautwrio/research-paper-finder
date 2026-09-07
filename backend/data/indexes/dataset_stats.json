@@ -1,0 +1,36 @@
+{
+  "pipeline_execution_time_seconds": 934.33,
+  "dataset": {
+    "total_papers_indexed": 30001,
+    "target_papers_count": 30001,
+    "vocabulary_size": 5795,
+    "total_categories": 24,
+    "total_venues": 130,
+    "total_authors": 265,
+    "year_range": [
+      1953,
+      2025
+    ],
+    "avg_citations": 202.8,
+    "max_citations": 182000,
+    "median_citations": 65.0
+  },
+  "indexes": {
+    "inverted_index_terms": 5811,
+    "tfidf_matrix_shape": [
+      30001,
+      5333
+    ],
+    "embeddings_matrix_shape": [
+      30001,
+      384
+    ],
+    "embedding_dimension": 384
+  },
+  "data_cleaning_summary": {
+    "total_raw": 30000,
+    "duplicates_removed": 0,
+    "invalid_schema_dropped": 0,
+    "total_cleaned": 30000
+  }
+}

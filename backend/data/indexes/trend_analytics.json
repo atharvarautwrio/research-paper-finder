@@ -1,0 +1,340 @@
+[
+  {
+    "topic": "Biomedical Discovery, CRISPR & Genomics",
+    "trajectory": [
+      251,
+      316,
+      396,
+      493,
+      545,
+      652,
+      520,
+      167
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 4.8,
+    "status": "Stable",
+    "total_papers": 3340
+  },
+  {
+    "topic": "Cybersecurity & Zero Trust Architecture",
+    "trajectory": [
+      219,
+      272,
+      388,
+      443,
+      531,
+      572,
+      471,
+      163
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 4.6,
+    "status": "Stable",
+    "total_papers": 3059
+  },
+  {
+    "topic": "Generative AI & Diffusion Models",
+    "trajectory": [
+      354,
+      464,
+      577,
+      717,
+      809,
+      874,
+      738,
+      243
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 4.2,
+    "status": "Stable",
+    "total_papers": 4776
+  },
+  {
+    "topic": "Quantum Physics, Astrophysics & Climate",
+    "trajectory": [
+      30,
+      52,
+      57,
+      82,
+      73,
+      96,
+      63,
+      25
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 4.1,
+    "status": "Stable",
+    "total_papers": 478
+  },
+  {
+    "topic": "Reinforcement Learning & Autonomous Systems",
+    "trajectory": [
+      2098,
+      2734,
+      3573,
+      4196,
+      4832,
+      5182,
+      4392,
+      1484
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 4.0,
+    "status": "Stable",
+    "total_papers": 28491
+  },
+  {
+    "topic": "Large Language Models & Transformers",
+    "trajectory": [
+      587,
+      743,
+      940,
+      1104,
+      1317,
+      1404,
+      1142,
+      418
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.9,
+    "status": "Stable",
+    "total_papers": 7655
+  },
+  {
+    "topic": "Database Management & Data Warehousing (MCA)",
+    "trajectory": [
+      323,
+      399,
+      615,
+      656,
+      732,
+      823,
+      701,
+      218
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.9,
+    "status": "Stable",
+    "total_papers": 4467
+  },
+  {
+    "topic": "Cloud Computing & Enterprise DevOps (MCA)",
+    "trajectory": [
+      322,
+      450,
+      596,
+      701,
+      692,
+      820,
+      705,
+      252
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.8,
+    "status": "Stable",
+    "total_papers": 4538
+  },
+  {
+    "topic": "Information Retrieval & Neural Search",
+    "trajectory": [
+      424,
+      529,
+      738,
+      848,
+      982,
+      1043,
+      847,
+      290
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.7,
+    "status": "Stable",
+    "total_papers": 5701
+  },
+  {
+    "topic": "Behavioral Economics & Decision Sciences",
+    "trajectory": [
+      68,
+      86,
+      124,
+      149,
+      146,
+      166,
+      142,
+      46
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.5,
+    "status": "Stable",
+    "total_papers": 927
+  },
+  {
+    "topic": "Computer Vision & Object Detection",
+    "trajectory": [
+      298,
+      372,
+      434,
+      572,
+      583,
+      671,
+      534,
+      198
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.5,
+    "status": "Stable",
+    "total_papers": 3662
+  },
+  {
+    "topic": "Big Data Analytics & Stream Processing (MCA)",
+    "trajectory": [
+      165,
+      263,
+      305,
+      362,
+      423,
+      421,
+      378,
+      124
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.3,
+    "status": "Stable",
+    "total_papers": 2441
+  },
+  {
+    "topic": "Full-Stack Web & Mobile Architectures (MCA)",
+    "trajectory": [
+      132,
+      172,
+      215,
+      249,
+      297,
+      300,
+      242,
+      96
+    ],
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "cagr": 3.0,
+    "status": "Stable",
+    "total_papers": 1703
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "topic_id": 0,
+    "name": "Enterprise Software Architecture & DevOps (MCA)",
+    "top_terms": [
+      "enterprise",
+      "systems",
+      "web",
+      "automated",
+      "design",
+      "chain",
+      "mca",
+      "architecture",
+      "end",
+      "erp",
+      "cloud",
+      "study"
+    ],
+    "paper_count": 10388,
+    "sample_titles": [
+      "Empirical Study of Mitigation of OWASP Top 10 Vulnerabilities in Enterprise Web Applications via Meta-Gradient Adaptation (Study 5909)",
+      "Fast and Accurate Framework for FinTech Micro-Lending Platform: Credit Risk Assessment and KYC Automation and Applications in Molecular Biology",
+      "Cross-Platform Mobile Application Architectures: Flutter vs React Native Performance Benchmarks with Low-Rank Factorization in Robotic Manipulation",
+      "Generative Deep Learning-Based Network Intrusion Detection Systems (NIDS) for Real-Time Threat Hunting for Financial Forecasting"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "name": "Robotics, Autonomy & Control Systems",
+    "top_terms": [
+      "policies",
+      "end",
+      "robot",
+      "reinforcement",
+      "manipulation",
+      "rich",
+      "visuomotor",
+      "camera",
+      "joint",
+      "pixels",
+      "torques",
+      "assembly"
+    ],
+    "paper_count": 826,
+    "sample_titles": [
+      "Deep Reinforcement Learning for Visuomotor Robot Manipulation Policies: Scaling Decentralized Methods for Industrial Systems",
+      "Empirical Study of Deep Reinforcement Learning for Visuomotor Robot Manipulation Policies for Resource-Constrained Devices (Study 9877)",
+      "Explainable Framework for Deep Reinforcement Learning for Visuomotor Robot Manipulation Policies and Applications in Enterprise ERP Portals",
+      "Transformer-Based Architecture for Deep Reinforcement Learning for Visuomotor Robot Manipulation Policies in Complex Environments"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "name": "Natural Language Processing & LLMs",
+    "top_terms": [
+      "code",
+      "generation",
+      "synthesis",
+      "localization",
+      "bug",
+      "automated",
+      "test",
+      "program",
+      "language",
+      "large",
+      "models",
+      "natural"
+    ],
+    "paper_count": 2497,
+    "sample_titles": [
+      "Context-Aware Deep Learning for Automated Bug Localization and Fault Detection in Large Repositories for Supply Chain Logistics",
+      "Interpretable Code Generation and Program Synthesis using Pretrained Transformer Models for High-Concurrency Workloads",
+      "Empirical Study of Code Generation and Program Synthesis using Pretrained Transformer Models using Graph Convolutional Embeddings (Study 18695)",
+      "Deep Architecture for Deep Learning for Automated Bug Localization and Fault Detection in Large Repositories with Provable Guarantees"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "name": "Topic: Learning, Causal, Continual",
+    "top_terms": [
+      "learning",
+      "causal",
+      "continual",
+      "representation",
+      "meta",
+      "deep",
+      "equivariant",
+      "generalization",
+      "task",
+      "fairness",
+      "inference",
+      "training"
+    ],
+    "paper_count": 1705,
+    "sample_titles": [
+      "Multi-Scale Equivariant Neural Networks and Geometric Deep Learning for High-Concurrency Workloads",
+      "Graph-Augmented Equivariant Neural Networks and Geometric Deep Learning for Edge Devices",
+      "Probabilistic Architecture for Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks across Heterogeneous Domains",
+      "End-to-End Framework for Causal Representation Learning and Counterfactual Reasoning and Applications in Enterprise ERP Portals"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "name": "Information Retrieval & Neural Search",
+    "top_terms": [
+      "retrieval",
+      "ranking",
+      "bm25",
+      "search",
+      "vector",
+      "recommender",
+      "collaborative",
+      "filtering",
+      "dense",
+      "inverted",
+      "index",
+      "mrr"
+    ],
+    "paper_count": 2008,
+    "sample_titles": [
+      "Evaluating Retrieval Quality: Correlation Analysis of MAP, MRR, and NDCG@10: A Generative Approach for High-Concurrency Workloads",
+      "A Novel Framework for Framework for Hybrid Ranking Combining BM25 Lexical Density and Dense Vector Embeddings and Applications in Conversational AI",
+      "High-Performance Evaluating Retrieval Quality: Correlation Analysis of MAP, MRR, and NDCG@10 for Banking & FinTech Systems",
+      "Graph-Augmented Evaluating Retrieval Quality: Correlation Analysis of MAP, MRR, and NDCG@10 under Distribution Shift"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "name": "Topic: Learned, Trees, Vector",
+    "top_terms": [
+      "learned",
+      "trees",
+      "vector",
+      "cdf",
+      "faster",
+      "lookups",
+      "replacing",
+      "kd",
+      "delivering",
+      "hnsw",
+      "3x",
+      "regressors"
+    ],
+    "paper_count": 1259,
+    "sample_titles": [
+      "Empirical Study of Learned Index Structures and Vector Indexing for High-Dimensional Similarity Search with Provable Guarantees (Study 8128)",
+      "Hierarchical Learned Index Structures and Vector Indexing for High-Dimensional Similarity Search using Latent Representations",
+      "Decentralized Learned Index Structures and Vector Indexing for High-Dimensional Similarity Search for Supply Chain Logistics",
+      "Contrastive Framework for Learned Index Structures and Vector Indexing for High-Dimensional Similarity Search and Applications in Satellite Remote Sensing"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "name": "Cybersecurity, Cryptography & Privacy",
+    "top_terms": [
+      "privacy",
+      "adversarial",
+      "differential",
+      "federated",
+      "networks",
+      "untrusted",
+      "formal",
+      "aggregators",
+      "private",
+      "epsilon",
+      "differentially",
+      "central"
+    ],
+    "paper_count": 1613,
+    "sample_titles": [
+      "Scalable Framework for Differentially Private Federated Learning with Secure Aggregation and Applications in Molecular Biology",
+      "Adversarial Robustness and Certified Defenses for Deep Neural Networks: Scaling Self-Supervised Methods under Distribution Shift",
+      "Automated Architecture for Adversarial Robustness and Certified Defenses for Deep Neural Networks using Latent Representations",
+      "Differentially Private Federated Learning with Secure Aggregation: Scaling Federated Methods with Low-Rank Factorization"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "name": "Natural Language Processing & LLMs (Cluster 2)",
+    "top_terms": [
+      "language",
+      "leveraging",
+      "search",
+      "ambiguous",
+      "expand",
+      "pseudo",
+      "contextual",
+      "reformulation",
+      "expansion",
+      "terms",
+      "specific",
+      "queries"
+    ],
+    "paper_count": 701,
+    "sample_titles": [
+      "Multi-Scale Android Jetpack Architecture Components and Kotlin Coroutines for Mobile Responsiveness for Satellite Remote Sensing",
+      "Android Jetpack Architecture Components and Kotlin Coroutines for Mobile Responsiveness: A Automated Approach under Asymmetric Noise",
+      "High-Performance Framework for Query Expansion and Reformulation using Contextual Language Models and Applications in Large-Scale Microservices",
+      "Query Expansion and Reformulation using Contextual Language Models with Provable Guarantees in Smart Cities (Study 16900)"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "name": "Applied Computer Networks & IoT (MCA)",
+    "top_terms": [
+      "iot",
+      "mqtt",
+      "coap",
+      "routing",
+      "sensor",
+      "http",
+      "campus",
+      "sdn",
+      "defined",
+      "networking",
+      "traffic",
+      "nodes"
+    ],
+    "paper_count": 1000,
+    "sample_titles": [
+      "Hierarchical Framework for Smart Campus Management System: IoT Sensor Integration and Real-Time Resource Monitoring and Applications in Academic Campus Systems",
+      "Transformer-Based Architecture for Lightweight Communication Protocols for IoT: Comparative Study of MQTT, CoAP, and HTTP on Large-Scale Benchmarks",
+      "Principled Architecture for Lightweight Communication Protocols for IoT: Comparative Study of MQTT, CoAP, and HTTP via Attention Mechanisms",
+      "Software Defined Networking (SDN) Dynamic Routing and Traffic Engineering in Enterprise Networks across Heterogeneous Domains in Search Engines"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "name": "Enterprise Application Systems & Case Studies (MCA)",
+    "top_terms": [
+      "learning",
+      "overparameterized",
+      "non",
+      "stochastic",
+      "adaptive",
+      "optimization",
+      "convex",
+      "gradient",
+      "generalization",
+      "proven",
+      "sublinear",
+      "reduced"
+    ],
+    "paper_count": 793,
+    "sample_titles": [
+      "Probabilistic Stochastic Optimization with Adaptive Learning Rates for Non-Convex Losses for High-Concurrency Workloads",
+      "Empirical Study of Stochastic Optimization with Adaptive Learning Rates for Non-Convex Losses under Asymmetric Noise (Study 18915)",
+      "Explainable Understanding Generalization and Implicit Regularization in Deep Overparameterized Networks on Large-Scale Benchmarks",
+      "Decentralized Understanding Generalization and Implicit Regularization in Deep Overparameterized Networks for Smart Cities (Study 16771)"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "name": "Big Data Analytics & Business Intelligence (MCA)",
+    "top_terms": [
+      "distributed",
+      "graph",
+      "mining",
+      "partition",
+      "linear",
+      "engine",
+      "vertex",
+      "data",
+      "scheduling",
+      "asynchronous",
+      "analytics",
+      "achieving"
+    ],
+    "paper_count": 1238,
+    "sample_titles": [
+      "Distributed Graph Analytics and Mining in Billion-Scale Dynamic Networks: A Probabilistic Approach in Enterprise Production",
+      "Context-Aware Distributed Graph Analytics and Mining in Billion-Scale Dynamic Networks via Meta-Gradient Adaptation",
+      "Distributed Graph Analytics and Mining in Billion-Scale Dynamic Networks: Scaling Transformer-Based Methods via Dual Optimization",
+      "Adaptive Architecture for Distributed Graph Analytics and Mining in Billion-Scale Dynamic Networks on Large-Scale Benchmarks"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "name": "Computer Vision & Visual Generative AI",
+    "top_terms": [
+      "vision",
+      "image",
+      "segmentation",
+      "self",
+      "object",
+      "supervised",
+      "3d",
+      "diffusion",
+      "masked",
+      "reconstruction",
+      "medical",
+      "computer"
+    ],
+    "paper_count": 2498,
+    "sample_titles": [
+      "High-Resolution Image Synthesis with Latent Diffusion Models: Scaling Latency-Optimized Methods in Real-World Scenarios",
+      "Probabilistic Architecture for Point Cloud Segmentation and Geometry Analysis using Graph Convolutional Networks with Provable Guarantees",
+      "Contrastive Zero-Shot Visual Recognition with Multi-Modal Contrastive Pre-training for Search Engines",
+      "Empirical Study of Zero-Shot Visual Recognition with Multi-Modal Contrastive Pre-training in Open-World Settings"
+    ]
+  },
+  {
+    "topic_id": 12,
+    "name": "Robotics, Autonomy & Control Systems (Cluster 2)",
+    "top_terms": [
+      "inertial",
+      "visual",
+      "mapping",
+      "slam",
+      "autonomous",
+      "denied",
+      "aerial",
+      "tightly",
+      "gps",
+      "odometry",
+      "indoor",
+      "navigation"
+    ],
+    "paper_count": 815,
+    "sample_titles": [
+      "Principled Visual-Inertial SLAM and 3D Occupancy Mapping for Autonomous Aerial Vehicles for Supply Chain Logistics",
+      "Visual-Inertial SLAM and 3D Occupancy Mapping for Autonomous Aerial Vehicles: A Hierarchical Approach in Enterprise Production",
+      "Visual-Inertial SLAM and 3D Occupancy Mapping for Autonomous Aerial Vehicles: Scaling Efficient Methods for Industrial Systems",
+      "Transformer-Based Visual-Inertial SLAM and 3D Occupancy Mapping for Autonomous Aerial Vehicles for Academic Campus Systems"
+    ]
+  },
+  {
+    "topic_id": 13,
+    "name": "Robotics, Autonomy & Control Systems (Cluster 3)",
+    "top_terms": [
+      "locomotion",
+      "sim",
+      "transfer",
+      "obstacles",
+      "terrains",
+      "randomization",
+      "rough",
+      "unknown",
+      "privileged",
+      "distillation",
+      "quadrupedal",
+      "quadruped"
+    ],
+    "paper_count": 857,
+    "sample_titles": [
+      "Sim-to-Real Transfer for Dynamic Quadrupedal Locomotion on Rough Terrains in Complex Environments in Clinical Healthcare",
+      "High-Performance Architecture for Sim-to-Real Transfer for Dynamic Quadrupedal Locomotion on Rough Terrains on Large-Scale Benchmarks",
+      "Sim-to-Real Transfer for Dynamic Quadrupedal Locomotion on Rough Terrains in Complex Environments in Molecular Biology",
+      "Self-Supervised Sim-to-Real Transfer for Dynamic Quadrupedal Locomotion on Rough Terrains for Financial Forecasting"
+    ]
+  },
+  {
+    "topic_id": 14,
+    "name": "Cybersecurity, Cryptography & Privacy (Cluster 2)",
+    "top_terms": [
+      "symbolic",
+      "execution",
+      "vulnerability",
+      "reentrancy",
+      "bytecode",
+      "overflows",
+      "integer",
+      "running",
+      "exploits",
+      "defi",
+      "combine",
+      "contract"
+    ],
+    "paper_count": 885,
+    "sample_titles": [
+      "Empirical Study of Automated Smart Contract Vulnerability Detection using Symbolic Execution and Graph Neural Networks across Heterogeneous Domains (Study 16718)",
+      "Decentralized Automated Smart Contract Vulnerability Detection using Symbolic Execution and Graph Neural Networks on Large-Scale Benchmarks",
+      "Graph-Augmented Architecture for Automated Smart Contract Vulnerability Detection using Symbolic Execution and Graph Neural Networks with Low-Rank Factorization",
+      "Multi-Scale Automated Smart Contract Vulnerability Detection using Symbolic Execution and Graph Neural Networks for Large-Scale Microservices"
+    ]
+  },
+  {
+    "topic_id": 15,
+    "name": "Natural Language Processing & LLMs (Cluster 3)",
+    "top_terms": [
+      "tuning",
+      "fine",
+      "low",
+      "lingual",
+      "human",
+      "translation",
+      "nlp",
+      "language",
+      "models",
+      "rank",
+      "cross",
+      "machine"
+    ],
+    "paper_count": 917,
+    "sample_titles": [
+      "Instruction Tuning and Alignment for Large Language Models: Scaling Probabilistic Methods under Asymmetric Noise",
+      "Parameter-Efficient Fine-Tuning with Low-Rank Adaptation (LoRA): A Transformer-Based Approach via Dual Optimization",
+      "Probabilistic Instruction Tuning and Alignment for Large Language Models for Supply Chain Logistics",
+      "A Novel Framework for Instruction Tuning and Alignment for Large Language Models for Financial Forecasting (Study 8337)"
+    ]
+  }
+]
